@@ -12,13 +12,13 @@ Text Summarization:
 Paste any text or document and get a clear, concise summary instantly .
 
 YouTube Video Summarization:
-Simply paste a YouTube link — the AI fetches the transcript and summarizes the entire video content 🎧➡️🧾.
+Simply paste a YouTube link — the AI fetches the transcript and summarizes the entire video content .
 
  Website Summarization:
 Enter any web article URL and get an instant summary of key points .
 
 LLM-Powered Understanding:
-Uses advanced language models (Groq / LLaMA / OpenAI) for smart, context-aware summaries 🧠💡.
+Uses advanced language models (Groq / LLaMA / OpenAI) for smart, context-aware summaries .
 
 Customizable Output:
 Choose between short, detailed, or bullet-style summaries .
